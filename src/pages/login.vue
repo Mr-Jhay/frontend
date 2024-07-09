@@ -3,7 +3,7 @@
         <div class="col-md-6 offset-md-3">
             <div>
                 <div>
-                    <h1>Login</h1>
+                    <h1>Loginhhhh</h1>
                     <hr/>
                 </div>
                 <form @submit.prevent="login">
